@@ -32,7 +32,7 @@ title: Washington, D.C.
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS has moved! We're now located on the third floor, first wing.
+           TTS is now located on the third floor, first wing.
         </td>
       </tr>
       <tr>
@@ -82,7 +82,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21 fo
 
 ### Once inside GSA
 
-When entering from the F Street entrance, continue straight past security down the hallway in front of you. At the end of the hallway, take the elevators up to floor four. Once out of the elevators, take two quick right turns and you&rsquo;ll be in the fourth floor infill. A map is here.
+When entering from the F Street entrance, continue straight past security down the hallway in front of you. At the end of the hallway, take the elevators up to floor three. Once out of the elevators, take two quick right turns and you&rsquo;ll be in the third floor infill. Walk through the infill to the 100 wing. A map is here.
 
 
 ## How do I&hellip;
@@ -122,7 +122,12 @@ Go to the F Street entrance, where 24/7 access is available.
 
 ### Book rooms for meetings?
 
-Use [BookIt](https://bookit.gsa.gov) to reserve rooms. Avoid booking rooms:
+Use [BookIt](https://bookit.gsa.gov) to reserve rooms. 
+
+* The TTS quiet rooms are 3117 and 3119B. These are unreservable but are first-come, first served. 
+* The reservable team rooms are 3116A&B, 3119A, 3128A&B, and 3143. 
+
+Avoid booking rooms:
 
 * 1471, 1472, and 1481 &mdash; they're only accessible via the 3rd wing
 * x3xx rooms &mdash; they're really far away from TTS and aren&rsquo;t easily accessible 
@@ -163,7 +168,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
+Gendered bathrooms are located at the end of the 3100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
 
 ### Mother’s rooms
 
