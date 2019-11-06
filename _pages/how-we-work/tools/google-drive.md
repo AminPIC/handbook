@@ -2,6 +2,8 @@
 title: Google Drive
 ---
 
+_a.k.a. G Suite_
+
 Google Drive is a cloud storage and file backup system. We keep a lot of documentation, project work, and templates in Google Drive.
 
 ## Setup
@@ -15,7 +17,6 @@ We use Google Drive to keep track of our work and collaborate on documents, pres
 * **Abide by [the TTS Code of Conduct]({{site.baseurl}}/code-of-conduct).**  If you see anyone violating our Code of Conduct, see the reporting section.
 * When you’re at work, make sure you're on the 18F Google Drive and not your private account, especially when working with outside partners. Official 18F documents must live on the GSA/18F shared drive for compliance reasons.
 * Everything in Google Drive can be FOIA’ed.
-* Offline syncing for Google Drive/Docs has been disabled for GSA.
 
 ### 18F Drive specifics
 
@@ -32,7 +33,7 @@ Make sure you set the permissions on new documents so that the appropriate peopl
 * Grant editing or commenting access to the entire team by adding <mailto:tts@gsa.gov>, <mailto:opp-team@gsa.gov>, or <mailto:18f-team@gsa.gov> in the Share menu. Disable the notification email if you don’t wish to bring it to the team’s attention right away. (You can also create and share whole folders; new files in a folder auto-inherit the sharing settings.)
 * You can share documents with any GSA employee — but don't default to sharing with _all_ of GSA. GSA will change your permissions if they are too open, and files that contain sensitive information will also be blocked via Cloudlock.
 
-* You can&rsquo;t publish docs to the web. You can&rsquo;t share docs with the public, only GSA or specific users. Even just to view.
+* You can't publish docs to the web. You can't share docs with the public, only GSA or specific users. Even just to view.
 
 * If another agency employs Google Docs, documents can be shared directly with them.
 
@@ -51,6 +52,10 @@ If you're using a non-Google service and it requests access to your GSA Google D
 We have more explanation of why this is our policy in [this blog post about how we handle information security and third party applications](https://18f.gsa.gov/2016/05/13/how-18f-handles-information-security-and-third-party-applications/).
 
 To be sure you haven't enabled this access accidentally in the past, you can check [Google's list of "Apps connected to your account"](https://security.google.com/settings/security/permissions), expand each item, and look for the Google Drive icon.
+
+## Local editing
+
+[Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en) can be used for local editing of files on Drive, though offline editing is not yet supported for Macs at GSA. [InSite page.](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/google-drive-and-shared-drive?term=drive%20file%20stream#Drive%20File%20Stream)
 
 ## Google Apps Scripts
 

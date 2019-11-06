@@ -32,17 +32,15 @@ If you’d like to be notified when new opportunities are listed on this page, p
 
 ### Open
 
+[People Operations Specialist](https://www.usajobs.gov/GetJob/ViewDetails/550254600) - Closes Thursday, November 21st at 11:59pm ET
+
+[Supervisory Management and Program Analyst](https://www.usajobs.gov/GetJob/ViewDetails/550884900) - Closes Tuesday, November 12th at 11:59pm ET
 
 ### Internal only competitions
 
-- [18F - Content Designer](https://docs.google.com/document/d/1A8f9pJmdYD71bYL61mU_XjgJFF2i2ORQsx-G4j4AvT4/edit?usp=sharing) - Application Close: Tuesday, 9/10 at 11:59pm ET 
-
-- [18F - UX Designer](https://docs.google.com/document/d/1H-cKTZIt5zzAoYw6JBsZz9m7XPFAWmcgd17IfBiL8I0/edit?usp=sharing) - Application Close: Monday, 9/9 at 11:59pm ET
-
+[18F Strategy Supervisor](https://docs.google.com/document/d/13MBWivDV1wy5lZp8ZnKVaEMyJcNDM3iJ3PcQ4r1eTX4/edit#) - Closes Friday, November 8 at 11:59pm ET
 
 ## Partner information & opportunities
-
-
 
 **United States Digital Service (USDS)**
 
